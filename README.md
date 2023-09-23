@@ -1,7 +1,6 @@
 # 💫 About Me:
 Final Year Computer Science Engineering Student<br>Front-end Developer<br>Data Analyst<br>Web Designer(UI/UX, Photoshop)<br><br> <br>
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jagan saravana n) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jagan_saravana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagan saravana n) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Jagan Saravana) 
 
@@ -14,3 +13,9 @@ Home For Biryanis is a biryani website for the biryani restaurant which is user 
 ### Home Page
 ![home](https://github.com/JaganSaravana07/HomeForBiryanis/blob/main/Screenshots/b1.png)
 ![](https://github.com/JaganSaravana07/HomeForBiryanis/blob/main/Screenshots/b2.png)
+### About Page
+![About](https://github.com/JaganSaravana07/HomeForBiryanis/blob/main/Screenshots/b3.png)
+### Menu Page
+![Menu](https://github.com/JaganSaravana07/HomeForBiryanis/blob/main/Screenshots/b4.png)
+### Contact
+![Contact](https://github.com/JaganSaravana07/HomeForBiryanis/blob/main/Screenshots/b5.png)
